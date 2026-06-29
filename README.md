@@ -2,7 +2,7 @@
 
 ```
  ╔══════════════════════════════════════════════════════════════╗
- ║        SMART ROUTE OPTIMIZER  PRO MAX  v1.0                 ║
+ ║        SMART ROUTE OPTIMIZER  PRO MAX  v1.0                  ║
  ║     Advanced Graph-Based Navigation & Route Intelligence     ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
