@@ -1,0 +1,10 @@
+# Build outputs
+#.exe
+#.out
+#.obj
+
+SmartRouteDbg
+SmartRouteOptimizer
+
+# IDE
+.vscode/
